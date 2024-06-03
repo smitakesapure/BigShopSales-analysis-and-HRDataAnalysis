@@ -8,7 +8,7 @@ The Big Shop Sales Project aims to understand sales trends, optimize inventory, 
 
 ## HR Analytics Dataset
 
-he HR Analytics Dataset  Project focuses on analyzing employee-related data within an organization. Here are the key points from the presentation:
+The HR Analytics Dataset  Project focuses on analyzing employee-related data within an organization. Here are the key points from the presentation:
 ##### Monthly Income Analysis:
 The distribution of monthly income is examined based on attrition.
 Tracking monthly income over time, grouped by attrition status.
